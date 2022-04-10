@@ -42,4 +42,6 @@ if choice == "3":
     inferior = int(input("Digite o número do sorteio mais antigo: "))
     superior = int(input("Digite o número do sorteio mais recente: "))
     resultado(inferior-1,superior-1,sorteios)
+\\ esse texto está salvo?
+    
 
